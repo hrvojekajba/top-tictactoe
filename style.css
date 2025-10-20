@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header-div {
+    font-size: 40px;
+    margin: 25px;
+    text-align: center;
+}
+
+.gameboard-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cell-div {
+    width: 200px;
+    height: 200px;
+    border: 2px hotpink;
+}
